@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://mandrulis.github.io/yoga-dizainas/
+Site published at: ( https://mandrulis.github.io/penktadienio-darbas2/ )
 
 Design: [Calender]( https://balticinstitute.sharepoint.com/:u:/s/FULLSTACKONLINE2305029/ER9LFu-OpxJEsv7CfeJP8R0Brd4VginXr0Ggn0J1NxUvUg?e=2jJpSm )
 
@@ -49,7 +49,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/MAndrulis/yoga-dizainas
+    git clone (https://mandrulis.github.io/penktadienio-darbas2/)
     ```
 2. Install NPM packages
     ```sh
